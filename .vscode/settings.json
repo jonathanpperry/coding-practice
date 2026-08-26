@@ -1,5 +1,7 @@
 {
   "github.copilot.enable": {
-    "*": false
-  }
+    "*": false,
+    "javascript": false
+  },
+  "workbench.colorTheme": "Dark Modern"
 }
